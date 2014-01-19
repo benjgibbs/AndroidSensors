@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="elevation" type="id">elevation</item>
+    <item name="acceleration" type="id">acceleration</item>
+    <item name="latlng" type="id">latlng</item>
+    <item name="gps" type="id">gps</item>
+    <item name="light" type="id">light</item>
+    <item name="pressure" type="id" />
+    <item name="gravity" type="id" />
+    <item name="linaccel" type="id" />
+    <item name="magfield" type="id" />
+    <item name="relhum" type="id" />
+    <item name="temp" type="id" />
+    <item name="proximity" type="id" />
+</resources>
